@@ -1,0 +1,25 @@
+.main-content {
+	background-color: #efefef;
+	width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    position: relative;
+}
+.search-field{
+	width: 75%;
+    height: 30px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}
+.footer{
+	background-color: #FFCB15;
+	padding: 10px 0;
+	width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+.countryList li{
+	list-style: none;
+}
